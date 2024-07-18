@@ -1,7 +1,10 @@
 package c.x.wzs.main
 
+import c.x.wzs.dbio.{PersistController, PersistentUserRepo}
 import c.x.wzs.httptwirl.HelloTwirlController
-import c.x.wzs.restful._
+import c.x.wzs.restful.*
+import io.getquill.SnakeCase
+import io.getquill.jdbczio.Quill
 import zio.*
 import zio.http.*
 
@@ -31,14 +34,36 @@ object Main extends ZIOAppDefault {
 //      Server.defaultWithPort(8080),
 //      InmemoryUserRepo.layer
 //    ).exitCode
+    // -----
+//    Server
+//      .serve(
+//        HelloTwirlController().routes.toHttpApp ++ UserRoutes().toHttpApp
+//      )
+//      .provide(
+//        Server.defaultWithPort(8080),
+//        InmemoryUserRepo.layer,
+//        PersistController.live,
+//        PersistentUserRepo.live,
+//        Quill.Mysql.fromNamingStrategy(SnakeCase),
+//        Quill.DataSource.fromPrefix("ZioMysqlAppConfig")
+//      )
 
-    Server
-      .serve(
-        HelloTwirlController().routes.toHttpApp ++ UserRoutes().toHttpApp
-      )
-      .provide(
-        Server.defaultWithPort(8080),
-        InmemoryUserRepo.layer
-      )
+    val happs = ZIO.service[PersistController].map { pc =>
+      pc.routes.toHttpApp ++ HelloTwirlController().routes.toHttpApp ++ UserRoutes().toHttpApp
+    }
+
+    val program = for {
+      app <- happs
+      _ <- Server.serve(app @@ Middleware.debug)
+    } yield ()
+
+    program.provide(
+      Server.defaultWithPort(8080),
+      InmemoryUserRepo.layer,
+      PersistController.live,
+      PersistentUserRepo.live,
+      Quill.Mysql.fromNamingStrategy(SnakeCase),
+      Quill.DataSource.fromPrefix("ZioMysqlAppConfig")
+    ).exitCode
   }
 }
