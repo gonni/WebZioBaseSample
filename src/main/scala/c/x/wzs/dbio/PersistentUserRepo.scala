@@ -33,8 +33,9 @@ class PersistentUserRepo(quill: Quill.Mysql[SnakeCase]) {
   def lookup(id: String): Task[Option[UserTable]] =
     run(qryUserTable.filter(c => c.uuid == lift(id))).map(_.headOption)
 
-  def users(page: Int): Task[List[UserTable]] =
-    run(qryUserTable.drop(10 * lift(page)).take(10))
+  def users(page: Int): Task[List[UserTable]] = {
+    run(qryUserTable.drop(lift(10 * page)).take(10))
+  }
 
   extension [R, A](task: RIO[R, A])
     // [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: contacts.email)

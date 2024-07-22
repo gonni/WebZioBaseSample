@@ -9,7 +9,7 @@ case class PersistController private(persistUserRepo: PersistentUserRepo) {
   def routes: Routes[Any, Response] = Routes(
     Method.GET / "dbUsers" -> handler { (req: Request) =>
       println("dbUsers fired ..")
-      persistUserRepo.users(1)
+      persistUserRepo.users(0)
         .mapBoth(
           fail =>
             println()

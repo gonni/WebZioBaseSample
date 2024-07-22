@@ -48,8 +48,29 @@ object Main extends ZIOAppDefault {
 //        Quill.DataSource.fromPrefix("ZioMysqlAppConfig")
 //      )
 
-    val happs = ZIO.service[PersistController].map { pc =>
-      pc.routes.toHttpApp ++ HelloTwirlController().routes.toHttpApp ++ UserRoutes().toHttpApp
+    // ----- static route -----
+    def staticFileHandler(path: Path): Handler[Any, Throwable, Request, Response] =
+      for {
+        file <- Handler.getResourceAsFile("static/" + path.encode)
+        http <-
+          if (file.isFile)
+            Handler.fromFile(file)
+          else
+            Handler.notFound
+      } yield http
+
+    val staticRoutes =
+      Routes(
+        Method.GET / "static" / trailing ->
+          Handler.fromFunctionHandler[(Path, Request)] { case (path: Path, _: Request) =>
+            staticFileHandler(path).contramap[(Path, Request)](_._2)
+          },
+      ).sandbox @@ HandlerAspect.requestLogging()
+    // ----- /static route -----
+
+    val happs = ZIO.serviceWith[PersistController] {
+      pc =>
+        pc.routes.toHttpApp ++ HelloTwirlController().routes.toHttpApp ++ UserRoutes().toHttpApp ++ staticRoutes.toHttpApp
     }
 
     val program = for {
