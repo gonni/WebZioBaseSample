@@ -1,5 +1,3 @@
-import scala.collection.Seq
-
 ThisBuild / version := "0.1.0-SNAPSHOT"
 
 ThisBuild / scalaVersion := "3.3.3"
@@ -8,7 +6,10 @@ resolvers += "jitpack" at "https://jitpack.io"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "WebZioBaseProject"
+    name := "WebZioBaseProject",
+    version := "1.3.53b",
+    assembly / mainClass := Some("c.x.JettyLaunchMain"),
+    assembly / assemblyJarName := "nrecc_admin.jar",
   )
 
 libraryDependencies ++= Seq(
@@ -27,3 +28,10 @@ libraryDependencies ++= Seq(
 )
 
 enablePlugins(SbtTwirl)
+
+assemblyMergeStrategy in assembly := {
+  case PathList("META-INF", "MANIFEST.MF") => MergeStrategy.discard
+  case PathList("reference.conf") => MergeStrategy.concat
+  case PathList("application.conf") => MergeStrategy.concat
+  case x => MergeStrategy.first
+}
