@@ -1,0 +1,14 @@
+POST https://openapi.koreainvestment.com:9443/oauth2/tokenP
+
+{
+  "grant_type": "client_credentials",
+  "appkey": "PSa6xp8AJLOIcatUqo7PSDabKsjDVV4Iz411",
+  "appsecret":  "OZRhVyWipBI9b6MvkAkD6EDFNwU+b3lWGWUXSTkKTya5yBQL/yoO+dwUjaeysCJyYBVSAdQSQ6TZSCvqP/hr4nCqukR6KFBRXyeJeyv05+EZGZPtMUg+malR6PntT05Y3pgQKbIQKcoSPH6DGpcNy7JX65l3SepFEwad9BLEWf1NhCXgXF8="
+}
+
+###
+GET https://openapi.koreainvestment.com:9443/uapi/domestic-stock/v1/quotations/inquire-investor?FID_COND_MRKT_DIV_CODE=J&FID_INPUT_ISCD=233740
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ0b2tlbiIsImF1ZCI6IjkwMDA3YjI0LWUzMTUtNDE3Zi04OGVjLWQ2YjZmZWUzNjY3MSIsInByZHRfY2QiOiIiLCJpc3MiOiJ1bm9ndyIsImV4cCI6MTcyMzQzNjM4OSwiaWF0IjoxNzIzMzQ5OTg5LCJqdGkiOiJQU2E2eHA4QUpMT0ljYXRVcW83UFNEYWJLc2pEVlY0SXo0MTEifQ.yvhGhYgVMD2lGhXgtmwXOenptG0uE3RiH4-EkgaoJ_VrJR197f0H4SOQimCqbwCPzTSFDqZ0b2FMIyImU1Q7lg
+appkey: PSa6xp8AJLOIcatUqo7PSDabKsjDVV4Iz411
+appsecret: OZRhVyWipBI9b6MvkAkD6EDFNwU+b3lWGWUXSTkKTya5yBQL/yoO+dwUjaeysCJyYBVSAdQSQ6TZSCvqP/hr4nCqukR6KFBRXyeJeyv05+EZGZPtMUg+malR6PntT05Y3pgQKbIQKcoSPH6DGpcNy7JX65l3SepFEwad9BLEWf1NhCXgXF8=
+tr_id: FHKST01010900
