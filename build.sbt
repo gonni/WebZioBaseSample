@@ -3,6 +3,7 @@ ThisBuild / version := "0.1.0-SNAPSHOT"
 ThisBuild / scalaVersion := "3.3.3"
 
 resolvers += "jitpack" at "https://jitpack.io"
+scalacOptions += "-Ymacro-annotations"
 
 lazy val root = (project in file("."))
   .settings(
@@ -13,7 +14,7 @@ lazy val root = (project in file("."))
   )
 
 libraryDependencies ++= Seq(
-  "dev.zio" %% "zio" % "2.1.0-RC3",
+  "dev.zio" %% "zio" % "2.1.6",
   "dev.zio"       %% "zio-json"            % "0.6.2",
   "dev.zio"       %% "zio-http"            % "3.0.0-RC6",
   "io.getquill"   %% "quill-zio"           % "4.8.0",
@@ -26,6 +27,8 @@ libraryDependencies ++= Seq(
   "dev.zio"       %% "zio-logging-slf4j" % "2.1.15",
   "org.slf4j"      % "slf4j-simple"      % "2.0.9"
 )
+
+libraryDependencies += "dev.zio" %% "zio-macros" % "2.1.6"
 
 enablePlugins(SbtTwirl)
 

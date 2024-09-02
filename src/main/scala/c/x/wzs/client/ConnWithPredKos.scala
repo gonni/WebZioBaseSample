@@ -17,7 +17,7 @@ object ConnWithPredKos extends ZIOAppDefault {
 
   val program = for {
     _ <- Console.printLine("Start Program2 ..")
-    stsl <- ZIO.service[StockServiceLocal]
+    stsl <- ZIO.service[StockService]
     res <- stsl.getKosdaqIndexPred()
     _ <- Console.printLine("Result => " + res)
   } yield()
