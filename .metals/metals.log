@@ -1,0 +1,350 @@
+2024.10.28 12:21:36 INFO  Started: Metals version 1.4.0 in folders '/home/jeff/dev/vsProjects/WebZioBaseSample' for client Visual Studio Code 1.93.1.
+2024.10.28 12:21:36 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.10.28 12:21:40 INFO  running '/home/jeff/.cache/coursier/arc/https/github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%252B11/OpenJDK17U-jdk_x64_linux_hotspot_17.0.13_11.tar.gz/jdk-17.0.13+11/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals17385453263613985574/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.10.28 12:21:40 ERROR [info] [launcher] getting org.scala-sbt sbt 1.10.1  (this may take some time)...
+2024.10.28 12:21:40 WARN  no build target for: /home/jeff/dev/vsProjects/WebZioBaseSample/project/metals.sbt
+2024.10.28 12:21:40 INFO  no build target found for /home/jeff/dev/vsProjects/WebZioBaseSample/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.28 12:22:02 ERROR [info] [launcher] getting Scala 2.12.19 (for sbt)...
+2024.10.28 12:22:04 INFO  [info] welcome to sbt 1.10.1 (Eclipse Adoptium Java 17.0.13)
+2024.10.28 12:22:06 INFO  [info] loading settings for project webziobasesample-build-build-build from metals.sbt ...
+2024.10.28 12:22:06 INFO  [info] loading project definition from /home/jeff/dev/vsProjects/WebZioBaseSample/project/project/project
+2024.10.28 12:22:15 INFO  [info] loading settings for project webziobasesample-build-build from metals.sbt ...
+2024.10.28 12:22:15 INFO  [info] loading project definition from /home/jeff/dev/vsProjects/WebZioBaseSample/project/project
+2024.10.28 12:22:21 INFO  [success] Generated .bloop/webziobasesample-build-build.json
+2024.10.28 12:22:21 INFO  [success] Total time: 6 s, completed Oct 28, 2024, 12:22:21 PM
+2024.10.28 12:22:22 INFO  [info] loading settings for project webziobasesample-build from metals.sbt,plugins.sbt ...
+2024.10.28 12:22:22 INFO  [info] loading project definition from /home/jeff/dev/vsProjects/WebZioBaseSample/project
+2024.10.28 12:22:39 INFO  [success] Generated .bloop/webziobasesample-build.json
+2024.10.28 12:22:39 INFO  [success] Total time: 17 s, completed Oct 28, 2024, 12:22:40 PM
+2024.10.28 12:22:43 ERROR /home/jeff/dev/vsProjects/WebZioBaseSample/build.sbt:35: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash
+2024.10.28 12:22:43 ERROR assemblyMergeStrategy in assembly := {
+2024.10.28 12:22:43 ERROR                       ^
+2024.10.28 12:22:43 INFO  [info] loading settings for project root from build.sbt ...
+2024.10.28 12:22:43 INFO  [info] set current project to WebZioBaseProject (in build file:/home/jeff/dev/vsProjects/WebZioBaseSample/)
+2024.10.28 12:22:43 INFO  [warn] there's a key that's not used by any other settings/tasks:
+2024.10.28 12:22:43 INFO  [warn]  
+2024.10.28 12:22:43 INFO  [warn] * ThisBuild / version
+2024.10.28 12:22:43 INFO  [warn]   +- /home/jeff/dev/vsProjects/WebZioBaseSample/build.sbt:1
+2024.10.28 12:22:43 INFO  [warn]  
+2024.10.28 12:22:43 INFO  [warn] note: a setting might still be used by a command; to exclude a key from this `lintUnused` check
+2024.10.28 12:22:43 INFO  [warn] either append it to `Global / excludeLintKeys` or call .withRank(KeyRanks.Invisible) on the key
+2024.10.28 12:23:21 INFO  [success] Generated .bloop/root-test.json
+2024.10.28 12:23:21 INFO  [success] Generated .bloop/root.json
+2024.10.28 12:23:21 INFO  [success] Total time: 38 s, completed Oct 28, 2024, 12:23:21 PM
+2024.10.28 12:23:21 INFO  time: ran 'sbt bloopInstall' in 1m41s
+2024.10.28 12:23:21 INFO  Attempting to connect to the build server...
+2024.10.28 12:23:21 INFO  No running Bloop server found, starting one.
+2024.10.28 12:23:42 INFO  Starting compilation server
+2024.10.28 12:23:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jeff/dev/vsProjects/WebZioBaseSample/.metals/bsp.trace.json or /home/jeff/.cache/metals/bsp.trace.json
+2024.10.28 12:23:44 INFO  Attempting to connect to the build server...
+2024.10.28 12:23:44 INFO  Found a Bloop server running
+2024.10.28 12:23:44 INFO  Attempting to connect to the build server...
+2024.10.28 12:23:44 INFO  Found a Bloop server running
+2024.10.28 12:23:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jeff/dev/vsProjects/WebZioBaseSample/project/project/.metals/bsp.trace.json or /home/jeff/.cache/metals/bsp.trace.json
+2024.10.28 12:23:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jeff/dev/vsProjects/WebZioBaseSample/project/.metals/bsp.trace.json or /home/jeff/.cache/metals/bsp.trace.json
+2024.10.28 12:23:49 INFO  time: Connected to build server in 27s
+2024.10.28 12:23:49 INFO  Connected to Build server: Bloop v2.0.3
+2024.10.28 12:23:49 INFO  time: Imported build in 0.22s
+2024.10.28 12:23:49 INFO  running doctor check
+2024.10.28 12:23:49 INFO  java targets: root-test, webziobasesample-build, root, webziobasesample-build-build
+2024.10.28 12:24:01 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.10.28 12:24:18 INFO  time: indexed workspace in 28s
+bad option '-Ymacro-annotations' was ignored
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:25:35 INFO  compiling root (25 scala sources)
+2024.10.28 12:25:37 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:25:58 INFO  compiling root-test (1 scala source)
+2024.10.28 12:25:58 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:25:58 INFO  time: compiled root in 24s
+2024.10.28 12:26:00 INFO  time: compiled root-test in 2.23s
+bad option '-Ymacro-annotations' was ignored
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:45:09 INFO  compiling root (1 scala source)
+2024.10.28 12:45:09 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:45:09 INFO  time: compiled root in 0.41s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:01 INFO  compiling root (1 scala source)
+2024.10.28 12:46:01 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:01 INFO  time: compiled root in 91ms
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:02 INFO  compiling root (1 scala source)
+2024.10.28 12:46:02 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:02 INFO  time: compiled root in 0.22s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:04 INFO  compiling root (1 scala source)
+2024.10.28 12:46:04 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:04 INFO  time: compiled root in 0.19s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:13 INFO  compiling root (1 scala source)
+2024.10.28 12:46:13 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:13 INFO  time: compiled root in 0.17s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:17 INFO  compiling root (1 scala source)
+2024.10.28 12:46:17 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:17 INFO  time: compiled root in 0.29s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:18 INFO  compiling root (1 scala source)
+2024.10.28 12:46:18 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:18 INFO  time: compiled root in 0.28s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:23 INFO  compiling root (1 scala source)
+2024.10.28 12:46:23 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:23 INFO  time: compiled root in 0.61s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:26 INFO  compiling root (1 scala source)
+2024.10.28 12:46:26 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:26 INFO  time: compiled root in 0.72s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:27 INFO  compiling root (1 scala source)
+2024.10.28 12:46:27 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:27 INFO  time: compiled root in 0.52s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:49 INFO  compiling root (1 scala source)
+2024.10.28 12:46:49 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:49 INFO  time: compiled root in 0.49s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:50 INFO  compiling root (1 scala source)
+2024.10.28 12:46:50 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:46:50 INFO  time: compiled root in 0.4s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:47:14 INFO  compiling root (1 scala source)
+2024.10.28 12:47:14 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:47:14 INFO  time: compiled root in 0.29s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:47:14 INFO  compiling root (1 scala source)
+2024.10.28 12:47:14 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:47:14 INFO  time: compiled root in 0.29s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:47:47 INFO  compiling root (1 scala source)
+2024.10.28 12:47:47 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:47:47 INFO  time: compiled root in 0.74s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:48:01 INFO  compiling root (1 scala source)
+2024.10.28 12:48:01 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:48:01 INFO  time: compiled root in 0.55s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:48:03 INFO  compiling root (1 scala source)
+2024.10.28 12:48:03 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:48:04 INFO  time: compiled root in 1.05s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:49:32 INFO  compiling root (1 scala source)
+2024.10.28 12:49:32 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:49:32 INFO  time: compiled root in 0.26s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:49:36 INFO  compiling root (1 scala source)
+2024.10.28 12:49:36 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:49:36 INFO  time: compiled root in 0.17s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:49:38 INFO  compiling root (1 scala source)
+2024.10.28 12:49:38 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:49:38 INFO  time: compiled root in 0.2s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:49:39 INFO  compiling root (1 scala source)
+2024.10.28 12:49:39 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:49:39 INFO  time: compiled root in 0.23s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:49:41 INFO  compiling root (1 scala source)
+2024.10.28 12:49:41 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:49:41 INFO  time: compiled root in 0.23s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:49:42 INFO  compiling root (1 scala source)
+2024.10.28 12:49:42 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:49:42 INFO  time: compiled root in 0.17s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:50:05 INFO  compiling root (1 scala source)
+2024.10.28 12:50:05 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:50:05 INFO  time: compiled root in 0.19s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:50:07 INFO  compiling root (1 scala source)
+2024.10.28 12:50:07 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:50:07 INFO  time: compiled root in 0.17s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:50:08 INFO  compiling root (1 scala source)
+2024.10.28 12:50:08 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:50:08 INFO  time: compiled root in 0.18s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:50:10 INFO  compiling root (1 scala source)
+2024.10.28 12:50:10 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:50:10 INFO  time: compiled root in 0.15s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:50:28 INFO  compiling root (1 scala source)
+2024.10.28 12:50:28 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:50:28 INFO  time: compiled root in 0.16s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:50:49 INFO  compiling root (1 scala source)
+2024.10.28 12:50:49 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:50:49 INFO  time: compiled root in 0.21s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:50:49 INFO  compiling root (1 scala source)
+2024.10.28 12:50:49 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:50:49 INFO  time: compiled root in 0.21s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:52:20 INFO  compiling root (1 scala source)
+2024.10.28 12:52:20 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:52:20 INFO  time: compiled root in 0.23s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:54:56 INFO  compiling root (1 scala source)
+2024.10.28 12:54:56 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:54:56 INFO  time: compiled root in 0.21s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:01 INFO  compiling root (1 scala source)
+2024.10.28 12:55:01 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:01 INFO  time: compiled root in 0.16s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:05 INFO  compiling root (1 scala source)
+2024.10.28 12:55:05 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:05 INFO  time: compiled root in 0.18s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:07 INFO  compiling root (1 scala source)
+2024.10.28 12:55:07 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:07 INFO  time: compiled root in 0.18s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:12 INFO  compiling root (1 scala source)
+2024.10.28 12:55:12 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:12 INFO  time: compiled root in 0.15s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:13 INFO  compiling root (1 scala source)
+2024.10.28 12:55:13 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:13 INFO  time: compiled root in 0.13s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:19 INFO  compiling root (1 scala source)
+2024.10.28 12:55:19 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:21 INFO  time: compiled root in 1.75s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:21 INFO  compiling root (1 scala source)
+2024.10.28 12:55:21 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:21 INFO  time: compiled root in 0.21s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:33 INFO  compiling root (1 scala source)
+2024.10.28 12:55:33 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:33 INFO  time: compiled root in 0.16s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:36 INFO  compiling root (1 scala source)
+2024.10.28 12:55:36 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:36 INFO  time: compiled root in 0.13s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:39 INFO  compiling root (1 scala source)
+2024.10.28 12:55:39 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:39 INFO  time: compiled root in 0.13s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:40 INFO  compiling root (1 scala source)
+2024.10.28 12:55:40 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:40 INFO  time: compiled root in 0.13s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:46 INFO  compiling root (1 scala source)
+2024.10.28 12:55:46 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:46 INFO  time: compiled root in 0.13s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:57 INFO  compiling root (1 scala source)
+2024.10.28 12:55:57 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:57 INFO  time: compiled root in 0.13s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:59 INFO  compiling root (1 scala source)
+2024.10.28 12:55:59 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:55:59 INFO  time: compiled root in 0.13s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:56:23 INFO  compiling root (1 scala source)
+2024.10.28 12:56:23 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:56:23 INFO  time: compiled root in 0.12s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:56:24 INFO  compiling root (1 scala source)
+2024.10.28 12:56:24 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:56:24 INFO  time: compiled root in 0.14s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:56:26 INFO  compiling root (1 scala source)
+2024.10.28 12:56:26 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:56:26 INFO  time: compiled root in 0.2s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:56:27 INFO  compiling root (1 scala source)
+2024.10.28 12:56:27 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:56:27 INFO  time: compiled root in 0.19s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:56:35 INFO  compiling root (1 scala source)
+2024.10.28 12:56:35 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:56:35 INFO  time: compiled root in 0.14s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:56:36 INFO  compiling root (1 scala source)
+2024.10.28 12:56:36 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:56:36 INFO  time: compiled root in 0.12s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:58:47 INFO  compiling root (1 scala source)
+2024.10.28 12:58:47 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:58:47 INFO  time: compiled root in 0.63s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:58:57 INFO  compiling root (1 scala source)
+2024.10.28 12:58:57 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:58:57 INFO  time: compiled root in 0.43s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:59:35 INFO  compiling root (1 scala source)
+2024.10.28 12:59:35 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:59:35 INFO  time: compiled root in 0.68s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:59:38 INFO  compiling root (1 scala source)
+2024.10.28 12:59:38 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:59:38 INFO  time: compiled root in 0.15s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:59:45 WARN  Could not find 'HttpServerConfig' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.10.28 12:59:46 WARN  Could not find 'HttpServerConfig' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.10.28 12:59:48 WARN  Could not find 'Config' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:59:50 INFO  compiling root (1 scala source)
+2024.10.28 12:59:50 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:59:50 INFO  time: compiled root in 0.23s
+2024.10.28 12:59:50 INFO  compiling root (1 scala source)
+2024.10.28 12:59:50 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:59:50 INFO  time: compiled root in 0.16s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:59:56 INFO  compiling root (1 scala source)
+2024.10.28 12:59:56 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 12:59:56 INFO  time: compiled root in 0.56s
+2024.10.28 12:59:56 INFO  time: compiled root-test in 6ms
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:01 INFO  compiling root (1 scala source)
+2024.10.28 13:00:01 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:01 INFO  time: compiled root in 0.2s
+2024.10.28 13:00:01 INFO  compiling root (1 scala source)
+2024.10.28 13:00:01 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:01 INFO  time: compiled root in 0.23s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:04 INFO  compiling root (1 scala source)
+2024.10.28 13:00:04 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:04 INFO  time: compiled root in 0.55s
+2024.10.28 13:00:04 INFO  time: compiled root-test in 4ms
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:22 INFO  compiling root (1 scala source)
+2024.10.28 13:00:22 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:22 INFO  time: compiled root in 0.54s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:27 INFO  compiling root (1 scala source)
+2024.10.28 13:00:27 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:27 INFO  time: compiled root in 0.16s
+2024.10.28 13:00:27 INFO  compiling root (1 scala source)
+2024.10.28 13:00:27 WARN  bad option '-Ymacro-annotations' was ignored
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:27 INFO  time: compiled root in 0.17s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:30 INFO  compiling root (1 scala source)
+2024.10.28 13:00:30 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:30 INFO  time: compiled root in 0.2s
+2024.10.28 13:00:30 INFO  compiling root (1 scala source)
+2024.10.28 13:00:30 WARN  bad option '-Ymacro-annotations' was ignored
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:30 INFO  time: compiled root in 0.17s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:31 INFO  compiling root (1 scala source)
+2024.10.28 13:00:31 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:31 INFO  time: compiled root in 0.72s
+2024.10.28 13:00:31 INFO  time: compiled root-test in 6ms
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:34 INFO  compiling root (1 scala source)
+2024.10.28 13:00:34 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:00:34 INFO  time: compiled root in 0.59s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:01:13 INFO  compiling root (1 scala source)
+2024.10.28 13:01:13 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:01:13 INFO  time: compiled root in 0.69s
+bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:01:27 INFO  compiling root (1 scala source)
+2024.10.28 13:01:27 WARN  bad option '-Ymacro-annotations' was ignored
+2024.10.28 13:01:27 INFO  time: compiled root in 0.5s
+bad option '-Ymacro-annotations' was ignored
