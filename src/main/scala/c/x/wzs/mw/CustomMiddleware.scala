@@ -41,8 +41,8 @@ object CustomMiddleware extends ZIOAppDefault {
       ),
     )
 
-  val frontEndServer = Server.serve(frontend.toHttpApp).provide(Server.defaultWithPort(3000))
-  val backendServer  = Server.serve(backend.toHttpApp).provide(Server.defaultWithPort(8080))
+  val frontEndServer = Server.serve(frontend).provide(Server.defaultWithPort(3000))
+  val backendServer  = Server.serve(backend).provide(Server.defaultWithPort(8080))
 
   val run = frontEndServer.zipPar(backendServer)
 }

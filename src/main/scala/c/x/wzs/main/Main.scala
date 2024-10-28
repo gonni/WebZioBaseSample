@@ -8,8 +8,9 @@ import io.getquill.SnakeCase
 import io.getquill.jdbczio.Quill
 import zio.*
 import zio.http.*
-
+import zio.http.Middleware.basicAuth
 import java.net.URI
+
 
 
 object Main extends ZIOAppDefault {
@@ -77,12 +78,12 @@ object Main extends ZIOAppDefault {
 
     val happs = ZIO.serviceWith[PersistController] {
       pc =>
-        pc.routes.toHttpApp ++ HelloTwirlController().routes.toHttpApp ++ UserRoutes().toHttpApp ++ staticRoutes2.toHttpApp
+        pc.routes ++ HelloTwirlController().routes ++ UserRoutes() ++ staticRoutes2
     }
 
     val program = for {
       app <- happs
-      _ <- Server.serve(app @@ Middleware.debug)
+      _ <- Server.serve(app @@basicAuth("admin", "admin") @@ Middleware.debug)
     } yield ()
 
     program.provide(

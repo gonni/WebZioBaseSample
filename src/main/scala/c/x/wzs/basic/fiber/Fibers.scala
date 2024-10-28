@@ -20,6 +20,12 @@ object Fibers extends ZIOAppDefault {
     _ <- favLang.debugThread.fork
   } yield ()
 
+  val diffThreadIO = for {
+    _ <- meaningOfLife.debugThread.fork
+    b <- favLang.debugThread.fork
+    c <- favLang.debugThread.fork
+  } yield ()
+
   val meaningOfLifeFiber: ZIO[Any, Nothing, Fiber[Throwable, Int]] = meaningOfLife.fork
 
   // join a fiber
