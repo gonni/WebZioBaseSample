@@ -6340,3 +6340,1038 @@ bad option '-Ymacro-annotations' was ignored
 bad option '-Ymacro-annotations' was ignored
 11월 07, 2024 6:52:26 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 정보: Unsupported notification method: $/setTrace
+2024.11.07 18:57:43 INFO  compiling root (1 scala source)
+2024.11.07 18:57:43 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:57:43 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 18:57:43 INFO  time: compiled root in 0.17s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:57:50 INFO  compiling root (1 scala source)
+2024.11.07 18:57:50 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:57:50 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 18:57:50 INFO  time: compiled root in 0.11s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:01 INFO  compiling root (1 scala source)
+2024.11.07 18:58:01 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:01 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 18:58:01 INFO  time: compiled root in 0.14s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:02 INFO  compiling root (1 scala source)
+2024.11.07 18:58:02 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:02 INFO  time: compiled root in 98ms
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:06 INFO  compiling root (1 scala source)
+2024.11.07 18:58:06 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:06 INFO  time: compiled root in 0.21s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:10 INFO  compiling root (1 scala source)
+2024.11.07 18:58:10 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:10 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 18:58:10 INFO  time: compiled root in 0.2s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:27 INFO  compiling root (1 scala source)
+2024.11.07 18:58:27 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:27 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 18:58:27 INFO  time: compiled root in 0.2s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:28 INFO  compiling root (1 scala source)
+2024.11.07 18:58:28 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:28 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 18:58:28 INFO  time: compiled root in 0.2s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:32 INFO  compiling root (1 scala source)
+2024.11.07 18:58:32 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:32 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 18:58:32 INFO  time: compiled root in 95ms
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:37 INFO  compiling root (1 scala source)
+2024.11.07 18:58:37 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:37 INFO  time: compiled root in 0.31s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:42 INFO  compiling root (1 scala source)
+2024.11.07 18:58:42 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:42 INFO  time: compiled root in 0.24s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:52 INFO  compiling root (1 scala source)
+2024.11.07 18:58:52 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:52 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 18:58:52 INFO  time: compiled root in 0.25s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:54 INFO  compiling root (1 scala source)
+2024.11.07 18:58:54 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:58:54 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 18:58:54 INFO  time: compiled root in 0.22s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:59:00 INFO  compiling root (1 scala source)
+2024.11.07 18:59:00 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:59:00 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 18:59:00 INFO  time: compiled root in 0.24s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:59:03 INFO  compiling root (1 scala source)
+2024.11.07 18:59:03 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:59:03 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 18:59:03 INFO  time: compiled root in 0.23s
+bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 6:59:08 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 3475
+2024.11.07 18:59:59 INFO  compiling root (1 scala source)
+2024.11.07 18:59:59 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 18:59:59 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 18:59:59 INFO  time: compiled root in 0.11s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:00 INFO  compiling root (1 scala source)
+2024.11.07 19:00:00 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:00 INFO  time: compiled root in 36ms
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:03 INFO  compiling root (1 scala source)
+2024.11.07 19:00:03 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:03 INFO  time: compiled root in 80ms
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:06 INFO  compiling root (1 scala source)
+2024.11.07 19:00:06 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:06 INFO  time: compiled root in 82ms
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:07 INFO  compiling root (1 scala source)
+2024.11.07 19:00:07 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:07 INFO  time: compiled root in 0.28s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:09 INFO  compiling root (1 scala source)
+2024.11.07 19:00:09 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:09 INFO  time: compiled root in 0.22s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:31 INFO  compiling root (1 scala source)
+2024.11.07 19:00:31 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:31 INFO  time: compiled root in 0.25s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:38 INFO  compiling root (1 scala source)
+2024.11.07 19:00:38 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:38 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:00:38 INFO  time: compiled root in 0.41s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:40 INFO  compiling root (1 scala source)
+2024.11.07 19:00:40 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:40 INFO  time: compiled root in 0.36s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:43 INFO  compiling root (1 scala source)
+2024.11.07 19:00:43 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:43 INFO  time: compiled root in 0.29s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:48 INFO  compiling root (1 scala source)
+2024.11.07 19:00:48 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:48 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:00:48 INFO  time: compiled root in 0.31s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:50 INFO  compiling root (1 scala source)
+2024.11.07 19:00:50 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:50 INFO  time: compiled root in 0.1s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:54 INFO  compiling root (1 scala source)
+2024.11.07 19:00:54 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:54 INFO  time: compiled root in 0.28s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:59 INFO  compiling root (1 scala source)
+2024.11.07 19:00:59 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:00:59 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:00:59 INFO  time: compiled root in 0.3s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:00 INFO  compiling root (1 scala source)
+2024.11.07 19:01:00 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:00 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:01:00 INFO  time: compiled root in 0.44s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:02 INFO  compiling root (1 scala source)
+2024.11.07 19:01:02 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:02 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:01:02 INFO  time: compiled root in 0.24s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:14 INFO  compiling root (1 scala source)
+2024.11.07 19:01:14 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:14 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:01:14 INFO  time: compiled root in 0.33s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:16 INFO  compiling root (1 scala source)
+2024.11.07 19:01:16 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:16 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:01:16 INFO  time: compiled root in 0.1s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:17 INFO  compiling root (1 scala source)
+2024.11.07 19:01:17 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:17 INFO  time: compiled root in 97ms
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:24 INFO  compiling root (1 scala source)
+2024.11.07 19:01:24 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:24 INFO  time: compiled root in 0.48s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:28 INFO  compiling root (1 scala source)
+2024.11.07 19:01:28 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:28 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:01:28 INFO  time: compiled root in 0.32s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:33 INFO  compiling root (1 scala source)
+2024.11.07 19:01:33 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:33 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:01:33 INFO  time: compiled root in 0.14s
+bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 7:01:33 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 4160
+2024.11.07 19:01:36 INFO  compiling root (1 scala source)
+2024.11.07 19:01:36 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:36 INFO  time: compiled root in 0.12s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:44 INFO  compiling root (1 scala source)
+2024.11.07 19:01:44 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:44 INFO  time: compiled root in 0.56s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:54 INFO  compiling root (1 scala source)
+2024.11.07 19:01:54 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:54 INFO  time: compiled root in 0.38s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:57 INFO  compiling root (1 scala source)
+2024.11.07 19:01:57 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:01:57 INFO  time: compiled root in 0.33s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:05 INFO  compiling root (1 scala source)
+2024.11.07 19:02:05 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:05 INFO  time: compiled root in 0.34s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:19 INFO  compiling root (1 scala source)
+2024.11.07 19:02:19 WARN  bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 7:02:20 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 4483
+2024.11.07 19:02:19 INFO  time: compiled root in 0.45s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:22 INFO  compiling root (1 scala source)
+2024.11.07 19:02:22 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:22 INFO  time: compiled root in 0.33s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:27 INFO  compiling root (1 scala source)
+2024.11.07 19:02:27 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:27 INFO  time: compiled root in 0.33s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:28 INFO  compiling root (1 scala source)
+2024.11.07 19:02:28 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:28 INFO  time: compiled root in 0.33s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:32 INFO  compiling root (1 scala source)
+2024.11.07 19:02:32 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:32 INFO  time: compiled root in 0.38s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:34 INFO  compiling root (1 scala source)
+2024.11.07 19:02:34 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:34 INFO  time: compiled root in 0.43s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:36 INFO  compiling root (1 scala source)
+2024.11.07 19:02:36 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:36 INFO  time: compiled root in 0.36s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:41 INFO  compiling root (1 scala source)
+2024.11.07 19:02:41 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:41 INFO  time: compiled root in 0.49s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:45 INFO  compiling root (1 scala source)
+2024.11.07 19:02:45 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:45 INFO  time: compiled root in 0.43s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:46 INFO  compiling root (1 scala source)
+2024.11.07 19:02:46 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:46 INFO  time: compiled root in 0.4s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:52 INFO  compiling root (1 scala source)
+2024.11.07 19:02:52 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:52 INFO  time: compiled root in 0.39s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:53 INFO  compiling root (1 scala source)
+2024.11.07 19:02:53 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:53 INFO  time: compiled root in 0.31s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:57 INFO  compiling root (1 scala source)
+2024.11.07 19:02:57 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:57 INFO  time: compiled root in 0.36s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:59 INFO  compiling root (1 scala source)
+2024.11.07 19:02:59 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:02:59 INFO  time: compiled root in 0.4s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:00 INFO  compiling root (1 scala source)
+2024.11.07 19:03:00 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:00 INFO  time: compiled root in 0.37s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:09 INFO  compiling root (1 scala source)
+2024.11.07 19:03:09 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:09 INFO  time: compiled root in 0.42s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:11 INFO  compiling root (1 scala source)
+2024.11.07 19:03:11 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:11 INFO  time: compiled root in 0.41s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:24 INFO  compiling root (1 scala source)
+2024.11.07 19:03:24 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:24 INFO  time: compiled root in 0.4s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:31 INFO  compiling root (1 scala source)
+2024.11.07 19:03:31 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:31 INFO  time: compiled root in 0.32s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:34 INFO  compiling root (1 scala source)
+2024.11.07 19:03:34 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:34 INFO  time: compiled root in 96ms
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:38 INFO  compiling root (1 scala source)
+2024.11.07 19:03:38 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:38 INFO  time: compiled root in 90ms
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:44 INFO  compiling root (1 scala source)
+2024.11.07 19:03:44 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:44 INFO  time: compiled root in 0.28s
+bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 7:03:46 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 4950
+2024.11.07 19:03:51 INFO  compiling root (1 scala source)
+2024.11.07 19:03:51 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:03:51 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:03:51 INFO  time: compiled root in 0.26s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:04:08 INFO  compiling root (1 scala source)
+2024.11.07 19:04:08 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:04:08 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:04:08 INFO  time: compiled root in 0.26s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:05:57 INFO  compiling root (1 scala source)
+2024.11.07 19:05:57 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:05:57 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:05:57 INFO  time: compiled root in 0.33s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:00 INFO  compiling root (1 scala source)
+2024.11.07 19:06:00 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:00 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:06:00 INFO  time: compiled root in 0.11s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:01 INFO  compiling root (1 scala source)
+2024.11.07 19:06:01 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:01 INFO  time: compiled root in 0.11s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:03 INFO  compiling root (1 scala source)
+2024.11.07 19:06:03 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:03 INFO  time: compiled root in 88ms
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:08 INFO  compiling root (1 scala source)
+2024.11.07 19:06:08 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:08 INFO  time: compiled root in 0.11s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:11 INFO  compiling root (1 scala source)
+2024.11.07 19:06:11 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:11 INFO  time: compiled root in 0.28s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:14 INFO  compiling root (1 scala source)
+2024.11.07 19:06:14 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:14 INFO  time: compiled root in 0.27s
+bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 7:06:15 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 5184
+2024.11.07 19:06:18 INFO  compiling root (1 scala source)
+2024.11.07 19:06:18 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:18 INFO  time: compiled root in 0.27s
+bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 7:06:19 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 5204
+2024.11.07 19:06:20 INFO  compiling root (1 scala source)
+2024.11.07 19:06:20 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:20 INFO  time: compiled root in 0.25s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:30 INFO  compiling root (1 scala source)
+2024.11.07 19:06:30 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:30 INFO  time: compiled root in 0.35s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:39 INFO  compiling root (1 scala source)
+2024.11.07 19:06:39 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:06:39 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:06:39 INFO  time: compiled root in 0.26s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:08:52 INFO  compiling root (1 scala source)
+2024.11.07 19:08:52 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:08:52 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:08:52 INFO  time: compiled root in 0.15s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:08:57 INFO  compiling root (1 scala source)
+2024.11.07 19:08:57 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:08:57 INFO  time: compiled root in 0.29s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:09:07 INFO  compiling root (1 scala source)
+2024.11.07 19:09:07 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:09:07 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:09:07 INFO  time: compiled root in 0.13s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:09:10 INFO  compiling root (1 scala source)
+2024.11.07 19:09:10 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:09:10 INFO  time: compiled root in 0.3s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:09:55 INFO  compiling root (1 scala source)
+2024.11.07 19:09:55 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:09:55 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:09:55 INFO  time: compiled root in 0.31s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:10:02 INFO  compiling root (1 scala source)
+2024.11.07 19:10:02 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:10:02 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:10:02 INFO  time: compiled root in 0.33s
+bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 7:10:28 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 5475
+11월 07, 2024 7:10:35 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 5503
+2024.11.07 19:10:41 INFO  compiling root (1 scala source)
+2024.11.07 19:10:41 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:10:41 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:10:41 INFO  time: compiled root in 0.32s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:10:49 INFO  compiling root (1 scala source)
+2024.11.07 19:10:49 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:10:49 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:10:49 INFO  time: compiled root in 0.32s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:10:56 INFO  compiling root (1 scala source)
+2024.11.07 19:10:56 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:10:56 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:10:56 INFO  time: compiled root in 0.28s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:10:59 INFO  compiling root (1 scala source)
+2024.11.07 19:10:59 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:10:59 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:10:59 INFO  time: compiled root in 0.1s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:07 INFO  compiling root (1 scala source)
+2024.11.07 19:11:07 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:07 INFO  time: compiled root in 0.33s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:09 INFO  compiling root (1 scala source)
+2024.11.07 19:11:09 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:09 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:11:09 INFO  time: compiled root in 0.33s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:14 INFO  compiling root (1 scala source)
+2024.11.07 19:11:14 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:14 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:11:14 INFO  time: compiled root in 0.3s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:16 INFO  compiling root (1 scala source)
+2024.11.07 19:11:16 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:16 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:11:16 INFO  time: compiled root in 0.38s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:20 INFO  compiling root (1 scala source)
+2024.11.07 19:11:20 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:20 INFO  time: compiled root in 0.29s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:22 INFO  compiling root (1 scala source)
+2024.11.07 19:11:22 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:22 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:11:22 INFO  time: compiled root in 79ms
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:27 INFO  compiling root (1 scala source)
+2024.11.07 19:11:27 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:27 INFO  time: compiled root in 0.1s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:29 INFO  compiling root (1 scala source)
+2024.11.07 19:11:29 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:29 INFO  time: compiled root in 78ms
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:30 INFO  compiling root (1 scala source)
+2024.11.07 19:11:30 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:30 INFO  time: compiled root in 79ms
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:33 INFO  compiling root (1 scala source)
+2024.11.07 19:11:33 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:33 INFO  time: compiled root in 0.36s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:37 INFO  compiling root (1 scala source)
+2024.11.07 19:11:37 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:38 WARN  Could not load snapshot text for /Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/basic/fiber/Interruptions.scala
+2024.11.07 19:11:37 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:11:37 INFO  time: compiled root in 0.35s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:45 INFO  compiling root (1 scala source)
+2024.11.07 19:11:45 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:45 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:11:45 INFO  time: compiled root in 0.14s
+bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 7:11:51 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 6119
+11월 07, 2024 7:11:52 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 6127
+2024.11.07 19:11:53 INFO  compiling root (1 scala source)
+2024.11.07 19:11:53 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:53 INFO  time: compiled root in 0.36s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:56 INFO  compiling root (1 scala source)
+2024.11.07 19:11:56 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:56 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:11:56 INFO  time: compiled root in 0.37s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:59 INFO  compiling root (1 scala source)
+2024.11.07 19:11:59 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:11:59 INFO  time: compiled root in 0.34s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:12:11 INFO  compiling root (1 scala source)
+2024.11.07 19:12:11 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:12:11 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:12:11 INFO  time: compiled root in 0.36s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:12:14 INFO  compiling root (1 scala source)
+2024.11.07 19:12:14 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:12:14 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:12:14 INFO  time: compiled root in 0.36s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:13:10 INFO  compiling root (1 scala source)
+2024.11.07 19:13:10 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:13:10 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:13:10 INFO  time: compiled root in 0.16s
+bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 7:13:14 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 6444
+2024.11.07 19:13:19 INFO  compiling root (1 scala source)
+2024.11.07 19:13:19 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:13:19 INFO  time: compiled root in 0.49s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:13:23 INFO  compiling root (1 scala source)
+2024.11.07 19:13:23 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:13:23 INFO  time: compiled root in 0.42s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:13:27 INFO  compiling root (1 scala source)
+2024.11.07 19:13:27 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:13:27 INFO  time: compiled root in 0.48s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:13:30 INFO  compiling root (1 scala source)
+2024.11.07 19:13:30 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:13:30 INFO  time: compiled root in 0.39s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:13:31 INFO  compiling root (1 scala source)
+2024.11.07 19:13:31 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:13:31 INFO  time: compiled root in 0.42s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:13:39 INFO  compiling root (1 scala source)
+2024.11.07 19:13:39 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:13:39 INFO  time: compiled root in 0.44s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:13:41 INFO  compiling root (1 scala source)
+2024.11.07 19:13:41 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:13:41 INFO  time: compiled root in 0.37s
+bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 7:14:00 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 6678
+2024.11.07 19:14:02 INFO  compiling root (1 scala source)
+2024.11.07 19:14:02 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:14:02 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:14:02 INFO  time: compiled root in 0.35s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:14:15 INFO  compiling root (1 scala source)
+2024.11.07 19:14:15 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:14:15 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:14:15 INFO  time: compiled root in 0.28s
+bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 7:17:01 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: A severe compiler error occurred, full details of the error can be found in the error report /Users/a1000074/dev/vscode_works2/WebZioBaseSample/.metals/.reports/metals-full/2024-11-07/r_compiler-error_(root)_19-17-01-381.md
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:17:02 INFO  compiling root (1 scala source)
+2024.11.07 19:17:02 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:17:02 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:17:02 INFO  time: compiled root in 0.38s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:18:12 INFO  compiling root (1 scala source)
+2024.11.07 19:18:12 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:18:12 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:18:12 INFO  time: compiled root in 0.36s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:18:19 INFO  compiling root (1 scala source)
+2024.11.07 19:18:19 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:18:19 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:18:19 INFO  time: compiled root in 0.27s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:18:22 INFO  compiling root (1 scala source)
+2024.11.07 19:18:22 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:18:22 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:18:22 INFO  time: compiled root in 0.28s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:18:29 INFO  compiling root (1 scala source)
+2024.11.07 19:18:29 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:18:29 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:18:29 INFO  time: compiled root in 0.28s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:18:55 INFO  compiling root (1 scala source)
+2024.11.07 19:18:55 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:18:55 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:18:55 INFO  time: compiled root in 0.36s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:19:31 INFO  compiling root (1 scala source)
+2024.11.07 19:19:31 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:19:31 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:19:31 INFO  time: compiled root in 0.4s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:19:35 INFO  compiling root (1 scala source)
+2024.11.07 19:19:35 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:19:35 INFO  time: compiled root in 0.32s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:19:38 INFO  compiling root (1 scala source)
+2024.11.07 19:19:38 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:19:38 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:19:38 INFO  time: compiled root in 0.23s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:19:43 INFO  compiling root (1 scala source)
+2024.11.07 19:19:43 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:19:43 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:19:43 INFO  time: compiled root in 0.41s
+bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 7:20:08 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 7245
+2024.11.07 19:20:15 INFO  compiling root (1 scala source)
+2024.11.07 19:20:15 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:20:15 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:20:15 INFO  time: compiled root in 0.7s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:00 INFO  compiling root (1 scala source)
+2024.11.07 19:21:00 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:00 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:21:00 INFO  time: compiled root in 0.34s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:04 INFO  compiling root (1 scala source)
+2024.11.07 19:21:04 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:04 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:21:04 INFO  time: compiled root in 0.3s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:09 INFO  compiling root (1 scala source)
+2024.11.07 19:21:09 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:09 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:21:09 INFO  time: compiled root in 0.28s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:41 INFO  compiling root (1 scala source)
+2024.11.07 19:21:41 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:41 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:21:41 INFO  time: compiled root in 0.35s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:42 INFO  compiling root (1 scala source)
+2024.11.07 19:21:42 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:42 INFO  time: compiled root in 0.3s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:51 INFO  compiling root (1 scala source)
+2024.11.07 19:21:51 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:51 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:21:51 INFO  time: compiled root in 0.39s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:55 INFO  compiling root (1 scala source)
+2024.11.07 19:21:55 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:55 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:21:55 INFO  time: compiled root in 0.37s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:58 INFO  compiling root (1 scala source)
+2024.11.07 19:21:58 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:21:58 INFO  time: compiled root in 0.35s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:02 INFO  compiling root (1 scala source)
+2024.11.07 19:22:02 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:02 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:22:02 INFO  time: compiled root in 0.16s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:04 INFO  compiling root (1 scala source)
+2024.11.07 19:22:04 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:04 INFO  time: compiled root in 0.14s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:06 INFO  compiling root (1 scala source)
+2024.11.07 19:22:06 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:06 INFO  time: compiled root in 97ms
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:11 INFO  compiling root (1 scala source)
+2024.11.07 19:22:11 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:11 INFO  time: compiled root in 0.12s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:17 INFO  compiling root (1 scala source)
+2024.11.07 19:22:17 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:17 INFO  time: compiled root in 0.15s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:19 INFO  compiling root (1 scala source)
+2024.11.07 19:22:19 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:19 INFO  time: compiled root in 0.11s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:20 INFO  compiling root (1 scala source)
+2024.11.07 19:22:20 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:20 INFO  time: compiled root in 0.29s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:29 INFO  compiling root (1 scala source)
+2024.11.07 19:22:29 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:29 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:22:29 INFO  time: compiled root in 0.34s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:41 INFO  compiling root (1 scala source)
+2024.11.07 19:22:41 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:41 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:22:41 INFO  time: compiled root in 0.33s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:42 INFO  compiling root (1 scala source)
+2024.11.07 19:22:42 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:42 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:22:42 INFO  time: compiled root in 0.24s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:44 INFO  compiling root (1 scala source)
+2024.11.07 19:22:44 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:44 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:22:44 INFO  time: compiled root in 0.14s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:45 INFO  compiling root (1 scala source)
+2024.11.07 19:22:45 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:45 INFO  time: compiled root in 0.11s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:50 INFO  compiling root (1 scala source)
+2024.11.07 19:22:50 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:50 INFO  time: compiled root in 0.3s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:51 INFO  compiling root (1 scala source)
+2024.11.07 19:22:51 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:51 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:22:51 INFO  time: compiled root in 0.28s
+bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 7:22:52 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 7960
+2024.11.07 19:22:54 INFO  compiling root (1 scala source)
+2024.11.07 19:22:54 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:54 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:22:54 INFO  time: compiled root in 0.27s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:57 INFO  compiling root (1 scala source)
+2024.11.07 19:22:57 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:22:57 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:22:57 INFO  time: compiled root in 0.28s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:03 INFO  compiling root (1 scala source)
+2024.11.07 19:23:03 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:03 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:23:03 INFO  time: compiled root in 0.28s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:06 INFO  compiling root (1 scala source)
+2024.11.07 19:23:06 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:06 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:23:06 INFO  time: compiled root in 0.32s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:08 INFO  compiling root (1 scala source)
+2024.11.07 19:23:08 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:08 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:23:08 INFO  time: compiled root in 0.26s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:09 INFO  compiling root (1 scala source)
+2024.11.07 19:23:09 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:09 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:23:09 INFO  time: compiled root in 0.23s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:21 INFO  compiling root (1 scala source)
+2024.11.07 19:23:21 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:21 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:23:21 INFO  time: compiled root in 0.32s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:23 INFO  compiling root (1 scala source)
+2024.11.07 19:23:23 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:23 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:23:23 INFO  time: compiled root in 0.1s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:25 INFO  compiling root (1 scala source)
+2024.11.07 19:23:25 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:25 INFO  time: compiled root in 0.28s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:34 INFO  compiling root (1 scala source)
+2024.11.07 19:23:34 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:34 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:23:34 INFO  time: compiled root in 0.12s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:39 INFO  compiling root (1 scala source)
+2024.11.07 19:23:39 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:39 INFO  time: compiled root in 0.33s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:49 INFO  compiling root (1 scala source)
+2024.11.07 19:23:49 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:49 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:23:49 INFO  time: compiled root in 0.28s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:52 INFO  compiling root (1 scala source)
+2024.11.07 19:23:52 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:52 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:23:52 INFO  time: compiled root in 0.14s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:55 INFO  compiling root (1 scala source)
+2024.11.07 19:23:55 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:55 INFO  time: compiled root in 0.13s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:57 INFO  compiling root (1 scala source)
+2024.11.07 19:23:57 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:23:57 INFO  time: compiled root in 0.14s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:00 INFO  compiling root (1 scala source)
+2024.11.07 19:24:00 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:00 INFO  time: compiled root in 0.12s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:09 INFO  compiling root (1 scala source)
+2024.11.07 19:24:09 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:09 INFO  time: compiled root in 0.41s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:10 INFO  compiling root (1 scala source)
+2024.11.07 19:24:10 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:10 INFO  time: compiled root in 0.13s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:12 INFO  compiling root (1 scala source)
+2024.11.07 19:24:12 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:12 INFO  time: compiled root in 0.31s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:14 INFO  compiling root (1 scala source)
+2024.11.07 19:24:14 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:14 INFO  time: compiled root in 0.3s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:24 INFO  compiling root (1 scala source)
+2024.11.07 19:24:24 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:24 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:24:24 INFO  time: compiled root in 0.3s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:33 INFO  compiling root (1 scala source)
+2024.11.07 19:24:33 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:33 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:24:33 INFO  time: compiled root in 0.4s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:36 INFO  compiling root (1 scala source)
+2024.11.07 19:24:36 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:36 INFO  time: compiled root in 0.29s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:41 INFO  compiling root (1 scala source)
+2024.11.07 19:24:41 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:41 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:24:41 INFO  time: compiled root in 0.4s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:49 INFO  compiling root (1 scala source)
+2024.11.07 19:24:49 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:24:49 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:24:49 INFO  time: compiled root in 0.39s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:02 INFO  compiling root (1 scala source)
+2024.11.07 19:25:02 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:02 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:25:02 INFO  time: compiled root in 0.34s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:17 INFO  compiling root (1 scala source)
+2024.11.07 19:25:17 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:17 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:25:17 INFO  time: compiled root in 0.37s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:18 INFO  compiling root (1 scala source)
+2024.11.07 19:25:18 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:18 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:25:18 INFO  time: compiled root in 83ms
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:20 INFO  compiling root (1 scala source)
+2024.11.07 19:25:20 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:20 INFO  time: compiled root in 0.29s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:27 INFO  compiling root (1 scala source)
+2024.11.07 19:25:27 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:27 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:25:27 INFO  time: compiled root in 0.35s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:31 INFO  compiling root (1 scala source)
+2024.11.07 19:25:31 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:31 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:25:31 INFO  time: compiled root in 0.11s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:35 INFO  compiling root (1 scala source)
+2024.11.07 19:25:35 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:35 INFO  time: compiled root in 0.14s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:37 INFO  compiling root (1 scala source)
+2024.11.07 19:25:37 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:37 INFO  time: compiled root in 0.12s
+bad option '-Ymacro-annotations' was ignored
+***** missing reference, looking for GeneratedMessageCompanion/T in package scalapb
+decls = Scope{
+  final lazy module object options: scalapb.options
+  final module object options extends  {this: scalapb.options.type =>} at
+    (scalapb : scalapb.type)
+  final lazy module object descriptors: scalapb.descriptors
+  final module object descriptors extends  {this: scalapb.descriptors.type =>
+    } at (scalapb : scalapb.type)
+  final lazy module object lenses: scalapb.lenses
+  final module object lenses extends  {this: scalapb.lenses.type =>} at
+    (scalapb : scalapb.type)
+}
+***** missing reference, looking for GeneratedMessage/T in package scalapb
+decls = Scope{
+  final lazy module object options: scalapb.options
+  final module object options extends  {this: scalapb.options.type =>} at
+    (scalapb : scalapb.type)
+  final lazy module object descriptors: scalapb.descriptors
+  final module object descriptors extends  {this: scalapb.descriptors.type =>
+    } at (scalapb : scalapb.type)
+  final lazy module object lenses: scalapb.lenses
+  final module object lenses extends  {this: scalapb.lenses.type =>} at
+    (scalapb : scalapb.type)
+}
+***** missing reference, looking for Updatable/T in package scalapb.lenses
+decls = Scope{}
+***** missing reference, looking for GeneratedEnumCompanion/T in package scalapb
+decls = Scope{
+  final lazy module object options: scalapb.options
+  final module object options extends  {this: scalapb.options.type =>} at
+    (scalapb : scalapb.type)
+  final lazy module object descriptors: scalapb.descriptors
+  final module object descriptors extends  {this: scalapb.descriptors.type =>
+    } at (scalapb : scalapb.type)
+  final lazy module object lenses: scalapb.lenses
+  final module object lenses extends  {this: scalapb.lenses.type =>} at
+    (scalapb : scalapb.type)
+}
+***** missing reference, looking for GeneratedEnum/T in package scalapb
+decls = Scope{
+  final lazy module object options: scalapb.options
+  final module object options extends  {this: scalapb.options.type =>} at
+    (scalapb : scalapb.type)
+  final lazy module object descriptors: scalapb.descriptors
+  final module object descriptors extends  {this: scalapb.descriptors.type =>
+    } at (scalapb : scalapb.type)
+  final lazy module object lenses: scalapb.lenses
+  final module object lenses extends  {this: scalapb.lenses.type =>} at
+    (scalapb : scalapb.type)
+}
+11월 07, 2024 7:25:44 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: A severe compiler error occurred, full details of the error can be found in the error report /Users/a1000074/dev/vscode_works2/WebZioBaseSample/.metals/.reports/metals-full/2024-11-07/r_compiler-error_(root)_19-25-44-886.md
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:47 INFO  compiling root (1 scala source)
+2024.11.07 19:25:47 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:47 INFO  time: compiled root in 0.15s
+bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 7:25:48 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 8942
+2024.11.07 19:25:51 INFO  compiling root (1 scala source)
+2024.11.07 19:25:51 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:51 INFO  time: compiled root in 0.1s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:54 INFO  compiling root (1 scala source)
+2024.11.07 19:25:54 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:54 INFO  time: compiled root in 0.12s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:55 INFO  compiling root (1 scala source)
+2024.11.07 19:25:55 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:25:55 INFO  time: compiled root in 93ms
+bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 7:26:11 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 9049
+2024.11.07 19:26:17 INFO  compiling root (1 scala source)
+2024.11.07 19:26:17 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:26:17 INFO  time: compiled root in 0.37s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:26:31 INFO  compiling root (1 scala source)
+2024.11.07 19:26:31 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:26:31 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:26:31 INFO  time: compiled root in 0.29s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:26:33 INFO  compiling root (1 scala source)
+2024.11.07 19:26:33 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:26:33 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:26:33 INFO  time: compiled root in 0.26s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:27:34 INFO  compiling root (1 scala source)
+2024.11.07 19:27:34 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:27:34 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:27:34 INFO  time: compiled root in 0.13s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:27:48 INFO  compiling root (1 scala source)
+2024.11.07 19:27:48 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:27:48 INFO  time: compiled root in 0.11s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:07 INFO  compiling root (1 scala source)
+2024.11.07 19:28:07 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:07 INFO  time: compiled root in 0.37s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:12 INFO  compiling root (1 scala source)
+2024.11.07 19:28:12 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:12 INFO  time: compiled root in 0.11s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:16 INFO  compiling root (1 scala source)
+2024.11.07 19:28:16 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:16 INFO  time: compiled root in 0.36s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:19 INFO  compiling root (1 scala source)
+2024.11.07 19:28:19 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:19 INFO  time: compiled root in 0.29s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:22 INFO  compiling root (1 scala source)
+2024.11.07 19:28:22 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:22 INFO  time: compiled root in 0.35s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:24 INFO  compiling root (1 scala source)
+2024.11.07 19:28:24 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:24 INFO  time: compiled root in 0.29s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:29 INFO  compiling root (1 scala source)
+2024.11.07 19:28:29 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:29 INFO  time: compiled root in 0.26s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:35 INFO  compiling root (1 scala source)
+2024.11.07 19:28:35 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:28:35 INFO  time: compiled root in 0.25s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:13 INFO  compiling root (1 scala source)
+2024.11.07 19:29:13 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:13 INFO  time: compiled root in 0.11s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:16 INFO  compiling root (1 scala source)
+2024.11.07 19:29:16 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:16 INFO  time: compiled root in 0.31s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:21 INFO  compiling root (1 scala source)
+2024.11.07 19:29:21 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:21 INFO  time: compiled root in 0.12s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:23 INFO  compiling root (1 scala source)
+2024.11.07 19:29:23 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:23 INFO  time: compiled root in 0.26s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:25 INFO  compiling root (1 scala source)
+2024.11.07 19:29:25 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:25 INFO  time: compiled root in 0.13s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:28 INFO  compiling root (1 scala source)
+2024.11.07 19:29:28 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:28 INFO  time: compiled root in 0.12s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:30 INFO  compiling root (1 scala source)
+2024.11.07 19:29:30 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:30 INFO  time: compiled root in 0.32s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:38 INFO  compiling root (1 scala source)
+2024.11.07 19:29:38 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:29:38 INFO  time: compiled root in 0.3s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:30:10 INFO  compiling root (1 scala source)
+2024.11.07 19:30:10 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:30:10 INFO  time: compiled root in 0.14s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:30:12 INFO  compiling root (1 scala source)
+2024.11.07 19:30:12 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:30:12 INFO  time: compiled root in 0.23s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:30:13 INFO  compiling root (1 scala source)
+2024.11.07 19:30:13 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:30:13 INFO  time: compiled root in 0.37s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:30:16 INFO  compiling root (1 scala source)
+2024.11.07 19:30:16 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:30:16 INFO  time: compiled root in 0.29s
+bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 7:30:24 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 9701
+2024.11.07 19:30:31 INFO  compiling root (1 scala source)
+2024.11.07 19:30:31 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:30:31 WARN  Invalid text document uri received from build server: file:///Users/a1000074/dev/vscode_works2/WebZioBaseSample/src/main/scala/c/x/wzs/client/StockService.scala
+2024.11.07 19:30:31 INFO  time: compiled root in 0.13s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:30:34 INFO  compiling root (1 scala source)
+2024.11.07 19:30:34 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:30:34 INFO  time: compiled root in 0.37s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:30:41 INFO  compiling root (1 scala source)
+2024.11.07 19:30:41 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:30:41 INFO  time: compiled root in 0.11s
+bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:30:48 INFO  compiling root (1 scala source)
+2024.11.07 19:30:48 WARN  bad option '-Ymacro-annotations' was ignored
+2024.11.07 19:30:48 INFO  time: compiled root in 0.34s
+bad option '-Ymacro-annotations' was ignored
