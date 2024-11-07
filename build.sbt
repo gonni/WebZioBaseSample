@@ -25,9 +25,10 @@ libraryDependencies ++= Seq(
   "dev.zio"       %% "zio-config-magnolia" % "4.0.0-RC16",
   "dev.zio"       %% "zio-logging"       % "2.1.15",
   "dev.zio"       %% "zio-logging-slf4j" % "2.1.15",
-  "org.slf4j"      % "slf4j-simple"      % "2.0.9"
+  // "org.slf4j"      % "slf4j-simple"      % "2.0.9"
 )
-
+libraryDependencies += "ch.qos.logback" % "logback-classic" % "1.2.11"
+// libraryDependencies += "org.slf4j" % "slf4j-reload4j" % "1.7.36"
 libraryDependencies += "dev.zio" %% "zio-macros" % "2.1.6"
 
 enablePlugins(SbtTwirl)

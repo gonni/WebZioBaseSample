@@ -66,6 +66,39 @@ object Fibers extends ZIOAppDefault {
     message <- fiber.join
   } yield message
 
+  val app6 = for {
+      _ <- ZIO.debug(s"Application started!")
+      _ <- ZIO.never.onInterrupt(_ => ZIO.debug(s"The child fiber interrupted!")).fork
+      _ <- ZIO.debug(s"Application finished!")
+    } yield ()
 
-  override def run: ZIO[Any with ZIOAppArgs with Scope, Any, Any] = chainedFibers.debugThread
+  // override def run: ZIO[Any with ZIOAppArgs with Scope, Any, Any] = app6
+
+  val barJob: ZIO[Any, Nothing, Long] =
+    ZIO
+      .debug("Bar: still running!")
+      .repeat(Schedule.fixed(1.seconds))
+
+  val fooJob: ZIO[Scope, Nothing, Unit] =
+    (for {
+      _ <- ZIO.debug("Foo: started!")
+      _ <- barJob.forkScoped
+      _ <- ZIO.sleep(2.seconds)
+      _ <- ZIO.debug("Foo: finished!")
+    } yield ()).onInterrupt(_ => ZIO.debug("Foo: interrupted!"))
+
+  def run =
+    for {
+      _ <- ZIO.scoped {
+        for {
+          _ <- ZIO.debug("Local scope started!")
+          _ <- fooJob.fork
+          _ <- ZIO.sleep(5.seconds)
+          _ <- ZIO.debug("Leaving the local scope!")
+        } yield ()
+      }
+      _ <- ZIO.debug("Do something else and sleep for 10 seconds")
+      _ <- ZIO.sleep(10.seconds)
+      _ <- ZIO.debug("Application exited!")
+    } yield ()
 }
