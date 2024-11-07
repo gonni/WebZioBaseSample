@@ -6338,3 +6338,5 @@ bad option '-Ymacro-annotations' was ignored
 2024.11.06 16:29:00 WARN  bad option '-Ymacro-annotations' was ignored
 2024.11.06 16:29:00 INFO  time: compiled root in 0.28s
 bad option '-Ymacro-annotations' was ignored
+11월 07, 2024 6:52:26 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTrace
