@@ -4,3 +4,6 @@
 /.bsp/
 /.bloop/
 /logs/
+/.metals/metals.*
+/.metals/.reports/
+/.metals/.tmp/

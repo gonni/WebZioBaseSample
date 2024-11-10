@@ -83,7 +83,7 @@ object Main extends ZIOAppDefault {
 
     val program = for {
       app <- happs
-      _ <- Server.serve(app @@basicAuth("admin", "admin") @@ Middleware.debug)
+      _ <- Server.serve(app @@ Middleware.debug)  //  @@basicAuth("admin", "admin") 
     } yield ()
 
     program.provide(

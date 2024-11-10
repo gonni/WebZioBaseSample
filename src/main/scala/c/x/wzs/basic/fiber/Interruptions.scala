@@ -50,12 +50,24 @@ object Interruptions extends ZIOAppDefault{
 	val aRace = slowEffect.race(fastEffect)
 	val testRace = aRace.fork *> ZIO.sleep(3.seconds)
 	
-	// Exercise
+	// Excercise
 	def timeout[R,E,A](zio: ZIO[R,E,A], time: Duration): ZIO[R,E,A] = for {
 		fib <- zio.fork
 		_ <- (ZIO.sleep(time) *> fib.interrupt).fork
 		result <- fib.join
 	} yield result
 
-	override def run: ZIO[Any & (ZIOAppArgs & Scope), Any, Any] = testRace
+	// Excercise
+	def timeout_v2[R,E,A](zio: ZIO[R,E,A], time: Duration): ZIO[R,E,Option[A]] = 
+		timeout(zio, time).foldCauseZIO(
+			cause => if (cause.isInterrupted) ZIO.succeed(None) else ZIO.failCause(cause),
+			value => ZIO.succeed((Some(value)))
+	)
+
+	val testTimeout_v2 = timeout_v2(
+		ZIO.succeed("Starting").debugThread *> ZIO.sleep(2.seconds) *> ZIO.succeed("I made it!").debugThread,
+		1.second
+	).debugThread
+
+	override def run: ZIO[Any & (ZIOAppArgs & Scope), Any, Any] = testTimeout_v2
 }
