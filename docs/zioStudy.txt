@@ -1,0 +1,13 @@
+Errors = failures present in the ZIO type signatrue("checked" errors)
+Defects = failures that are unrecoverable, unforeseen, NOT present in the ZIO type signatrue
+
+ZIO[R,E,A] can finish with Exit[E,A]
+ - Success[A] containing a value
+ - Cause[E]
+  - Fail[E] containing the errors
+  - Die(t: Throwable) with was unforeseen
+
+.sandbox --> ZIO[Any, E, V] -> ZIO[Any, Cause[E], V]
+.unsandbox
+
+

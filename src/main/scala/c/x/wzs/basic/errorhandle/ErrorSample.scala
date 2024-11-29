@@ -1,4 +1,4 @@
-package c.x.wzs.basic
+package c.x.wzs.basic.errorhandle
 
 import zio._
 
