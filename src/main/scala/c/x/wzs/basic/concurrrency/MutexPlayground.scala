@@ -23,7 +23,15 @@ object Mutex {
           case State(true, waiting) => signal.await -> State(locked = true, waiting.enqueue(signal))
         }.flatten
       }
-      override def release: UIO[Unit] = ???
+      override def release: UIO[Unit] = state.modify {
+        case State(false, _) => ZIO.unit -> unlocked
+        case State(true, waiting) => 
+          if(waiting.isEmpty) ZIO.unit -> unlocked
+          else {
+            val (signal, newWaiting) = waiting.dequeue
+            signal.succeed(()).unit -> State(locked = true, newWaiting)
+          }
+      }.flatten
     }
 
   }
