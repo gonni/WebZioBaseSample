@@ -4,6 +4,7 @@ import zio._
 import c.x.wzs.basic.utils._
 import org.scalafmt.config.Comments.Wrap.no
 import c.x.wzs.basic.fiber.BlockingEffects.program
+import java.util.concurrent.TimeUnit
 
 object PromisesMain extends ZIOAppDefault {
 
@@ -92,5 +93,18 @@ object PromisesMain extends ZIOAppDefault {
     } yield ()
   }
 
-  override def run: ZIO[Any & (ZIOAppArgs & Scope), Any, Any] = eggBoiler()
+  val race: IO[String, Int] = for {
+    p     <- Promise.make[String, Int]
+    _     <- (ZIO.sleep(Duration(2, TimeUnit.SECONDS)) *> p.succeed(1)).fork
+    _     <- p.complete(ZIO.succeed(2)).fork
+    _     <- p.completeWith(ZIO.succeed(3)).fork
+    _     <- p.done(Exit.succeed(4)).fork
+    _     <- p.fail("5")
+    _     <- p.failCause(Cause.die(new Error("6")))
+    _     <- p.die(new Error("7"))
+    _     <- p.interrupt.fork
+    value <- p.await
+  } yield value
+
+  override def run: ZIO[Any & (ZIOAppArgs & Scope), Any, Any] = race.debug
 }
