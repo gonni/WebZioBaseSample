@@ -41,7 +41,8 @@ object SemaphorePlayground extends ZIOAppDefault {
         _ <- ZIO.succeed(s"[task $n] done: $res").debugThread
       } yield res
     }
-  
+
+  // Wrong way to use semaphores
   val mySemaphore = Semaphore.make(1) // mutex  
   val tasks = ZIO.collectAllPar((1 to 10).map{ id =>
     for {
@@ -57,6 +58,8 @@ object SemaphorePlayground extends ZIOAppDefault {
     } yield res
   })
 
+  //RX : Semaphore with permits
+  // Correct way to use semaphores
   val taskFixed = mySemaphore.flatMap { sem =>  // only one instance of semaphore
     ZIO.collectAllPar((1 to 10).map{ id =>
       for {

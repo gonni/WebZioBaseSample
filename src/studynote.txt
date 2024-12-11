@@ -1,0 +1,34 @@
+== Ref
+private val myApp = 
+    for {
+      ref <- Ref.make(initial)
+      _ <- request(ref) zipPar request(ref)
+      rn <- ref.get
+      _ <- Console.printLine(s"Final count is: $rn").orDie
+    } yield ()
+
+= Loop
+def notifyFileComplete(contentRef: Ref[String]): UIO[Unit] = for {
+      file <- contentRef.get
+      _ <- if(file.endsWith("<EOF>")) ZIO.succeed("File download complete").debugThread 
+            else ZIO.succeed("downloading ...").debugThread *> ZIO.sleep(1.second) *> notifyFileComplete(contentRef)
+    } yield ()
+
+== Semaphore
+  //RX : Semaphore with permits
+  // Correct way to use semaphores
+  val taskFixed = mySemaphore.flatMap { sem =>  // only one instance of semaphore
+    ZIO.collectAllPar((1 to 10).map{ id =>
+      for {
+        // sem <- mySemaphore
+        _ <- ZIO.succeed(s"[task $id] waiting to log in").debugThread
+        res <- sem.withPermit {
+          for {
+            _ <- ZIO.succeed(s"[task $id] logged in,  working ..").debugThread
+            res <- doWorkWhileLoggedIn()
+            _ <- ZIO.succeed(s"[task $id] done: $res").debugThread
+          } yield res
+        }
+      } yield res
+    })
+  }

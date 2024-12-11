@@ -19,7 +19,7 @@ object PromisesMain extends ZIOAppDefault {
           ZIO.succeed(s"got '$part'").debugThread *> ZIO.sleep(1.second) *> contentRef.update(_ + part)
         }
       )
-
+    //XR: Loop in ZIO with concurrency
     def notifyFileComplete(contentRef: Ref[String]): UIO[Unit] = for {
       file <- contentRef.get
       _ <- if(file.endsWith("<EOF>")) ZIO.succeed("File download complete").debugThread 
@@ -106,5 +106,18 @@ object PromisesMain extends ZIOAppDefault {
     value <- p.await
   } yield value
 
-  override def run: ZIO[Any & (ZIOAppArgs & Scope), Any, Any] = race.debug
+  import java.io.IOException
+
+  val program: ZIO[Any, IOException, Unit] = 
+    for {
+      promise         <-  Promise.make[Nothing, String]
+      sendHelloWorld  =   (ZIO.succeed("hello world") <* ZIO.sleep(1.second)).flatMap(promise.succeed(_))
+      getAndPrint     =   promise.await.flatMap(Console.printLine(_))
+      fiberA          <-  sendHelloWorld.fork
+      fiberB          <-  getAndPrint.fork
+      _               <-  (fiberA zip fiberB).join
+      _ <- Console.printLine("done")
+    } yield ()
+
+  override def run: ZIO[Any & (ZIOAppArgs & Scope), Any, Any] = eggBoiler()
 }
