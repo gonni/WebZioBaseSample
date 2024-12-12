@@ -32,6 +32,12 @@ object DemoScheduler extends ZIOAppDefault {
     "http://example.com/10"
   )
 
+  // producer는 crawling 대상 종목을 선별하여 queue에 넣는다.
+  val producer1 = for {
+    queue <- Queue.unbounded[String]
+    _ <- ZIO.foreach(urls)(url => queue.offer(url))
+  } yield queue
+
   val producer = for {
     queue <- Queue.unbounded[String]
     _ <- ZIO.foreach(urls)(url => queue.offer(url))
